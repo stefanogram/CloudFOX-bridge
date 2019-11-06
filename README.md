@@ -1,2 +1,2 @@
-# brizy-bridge
+# brizy-bridge CloudFOX® Connector
  
