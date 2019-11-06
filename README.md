@@ -1,2 +1,1 @@
-# brizy-bridge CloudFOX® Connector
- 
+# Brizy-Export-Deploy
