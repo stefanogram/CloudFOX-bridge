@@ -1,1 +1,1 @@
-# Brizy-Export-Deploy
+# Brizy-Export-Deploy sync with netlify.com
